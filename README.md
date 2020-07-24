@@ -3,7 +3,7 @@
 - nice to meet u~
 - I'm a java architect
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wujunshen&show_icons=true&theme=radical)
+
 
 > wechat: saviola0209
 >
